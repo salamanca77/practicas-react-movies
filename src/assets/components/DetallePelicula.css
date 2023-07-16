@@ -1,0 +1,19 @@
+.detalle-pelicula{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.detalle-pelicula-img{
+    max-width: 400px;
+    border-radius: 15px;
+    margin: 15px;   
+}
+.detalle-pelicula-div{
+    max-width: 400px;
+    font-size:1.5rem;
+}
+
+.detalle-pelicula-p{
+    margin-top: 0;
+}

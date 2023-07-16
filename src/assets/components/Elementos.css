@@ -1,0 +1,21 @@
+.elemento{
+    list-style: none;
+    font-size:1.5rem;
+    text-align: center;
+}
+
+   
+.elemento-img{
+    background-color: white;
+    border-radius: 10px;
+    width: 230px;
+    height: 450px;
+}
+
+@media (max-width:560px){
+    .elemento-img{
+        width: 100%;
+        height: auto;
+    }   
+
+}

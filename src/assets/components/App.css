@@ -1,0 +1,10 @@
+
+.aplicacion{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
