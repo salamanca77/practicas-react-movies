@@ -6,7 +6,8 @@ export function Elementos({ movie }) {
 
     const url = getMoviesImg(movie.poster_path, 300)
 
-    console.log(movie.title)
+    console.log(url)
+    // console.log(movie.title)
     
     return (
         <li className="elemento">
